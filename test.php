@@ -6,7 +6,8 @@
 	echo $str; 
 	echo '<br/>'; 
 	echo phpversion();	
-
+	echo phpversion();	
+	echo phpversion();	
 	exit
 
 
