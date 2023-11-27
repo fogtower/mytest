@@ -8,6 +8,8 @@
 	echo phpversion();	
 	echo phpversion();	
 	echo phpversion();	
+	echo '<br/>'; 
+	echo '<br/>'; 
 	exit
 
 
